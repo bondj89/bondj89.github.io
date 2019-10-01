@@ -14,5 +14,5 @@ A results-driven Certified Scrum Master and Technical Business Analyst with over
 ## Employment
 
 ## Links
-
+* [Resume](JBondresume.pdf)
 * [LinkedIn](https://www.linkedin.com/in/bondcsm/)
