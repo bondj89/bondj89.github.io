@@ -1,5 +1,3 @@
-# Joel Bond
-
 ## Career Objectives  
 
 ## Current Projects
