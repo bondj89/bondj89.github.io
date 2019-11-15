@@ -12,8 +12,10 @@ A results-driven Certified Scrum Master and Technical Business Analyst with over
    University of New Mexico - Bachelor of Liberal Arts
 
 ## Employment
-   
+* NMDOH - Business Analyst
+* Presbyterian Hospitals - Business Analyst / Scrum Master 
+* Advanced Network Management - Project Manager 
 
 ## Links
-* [Resume](JBondresume.pdf)
+* [Resume](J B.pdf)
 * [LinkedIn](https://www.linkedin.com/in/bondcsm/)
